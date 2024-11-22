@@ -21,7 +21,7 @@ public class Main {
             System.out.println("Girmiş olduğunuz sayılar karenin alanını hesaplar:" +sonuc);
         }
         else {
-            System.out.println("Çevre:"sonuc);
+            System.out.println("Alan:"sonuc);
         }
     }
 }
