@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        int dyil = 0; //doğum yılı
-        int yil = 2021; //şu anki yıl
-        int sonuc = 0; // sonuç
+        int dyil = 0; 
+        int yil = 2021; 
+        int sonuc = 0; 
 
         Scanner scanner = new Scanner(System.in);
 
@@ -14,7 +14,7 @@ public class Main {
 
         sonuc = yil - dyil;
 
-        System.out.println("Yaşınız"+ sonuc);
+        System.out.println("Yaşınız:"+ sonuc);
 
 
     }
