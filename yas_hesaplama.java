@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         int dyil = 0; //doğum yılı
-        int yil = 2024; //şu anki yıl
+        int yil = 2021; //şu anki yıl
         int sonuc = 0; // sonuç
 
         Scanner scanner = new Scanner(System.in);
